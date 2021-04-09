@@ -4,3 +4,8 @@
 > You can find the original challenge at https://dailylogochallenge.com/   
 > I will post my version of logo design here :)   
 > Please feel free to comment!
+   
+<details>
+<summary>Day 1</summary>
+
+</details>
